@@ -82,3 +82,49 @@ firebase_app_id_file.json
 # Temporary files
 *.tmp
 *.temp
+
+# CMake related
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# C++/C related
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.dylib
+*.a
+*.lib
+*.out
+
+# Swift related
+*.swiftmodule
+*.swiftdoc
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcshareddata/
+*.playground/
+*.swiftpm/
+
+# HTML related
+*.html
+*.htm
+*.css
+*.js
+
+# Other
+.idea/
+*.orig
+*.bak
+*.old
+*.swp
+*.swo
+*.log
+*.tmp
+*.temp
+*.backup
+*.bak
